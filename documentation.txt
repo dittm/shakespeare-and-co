@@ -1,0 +1,21 @@
+I imported matplotlib and pandas and read in two files: books.csv and events.csv
+
+books.csv includes information about each book like title, borrow count, author, year
+events.csv include events concerning subscription, borrow or purchase. For borrow and purchase, it also includes information about the item, but it is not as precise as books.csv in that it does not show the overall borrow / purchase count for the item. For diagrams that included the borrow / purchase counts, I used books.csv, but for the majority of queries I used events.csv
+
+Generally, I created functions for processes that I used more than once. I created e.g. a function to create horizontal bar plots. I also created two other functions which filter the database. For the filter functions, I tried to keep them as effective as possible while allowing some adjustments so I can use the function for different filter queries. I thus used if statements and also defined optional arguments (e.g. author_name=None)
+
+I started the project with books.csv and got the distribution of the items in the library. For this I exchanged empty fields with 'Unknown' (line 10). Then I counted the instances in line 11. For the presentation of the query result, I decided to use a pie chart as it is a good method to show disrtibutions. Because the division between some item formats are very big, I decided to display a close up of the small chunks of the pie chart on the left side. By doing this, I am highlighting the slices that may not be visible otherwise.
+
+For the top 15 items purchased / borrowed, I got the result by using .nlargest and defining that I want 15 items.
+I further created a function called plot_barh where I defined how the information should be displayed in a diagram. It includes the arguments title, x_label, y_label, data, column, color. They are all mandatory. I added several details to the bar, like grids, count on each bar, labels, minor ticks, etc. I created such details for all diagrams in this project.
+
+Then I also accessed events.csv. I started off with defining a function that opens the file and filters the data. I dropped all empty cells for the empty columns 'start_date', 'event_type', 'item_authors'. I then sliced all the items in 'start_date' so instead of yyyy-mm-dd, it would become yyyy. This step is not sufficient enough because some dates do not have a year, as in --mm-dd. The slicing could then lead to weird dates like 117 or 119. For this reason I created a regex pattern that should match actual dates. I also used this pattern in my filter functions because it was a necessary step in cleaning the data.
+Another necessary step was dropping all rows that contained empty cells with .dropna()
+
+The next queries and diagrams are mostly based on the same filter and visualization methods. However, some parts had to be adjusted. For lines 70ff (borrow vs purchase history) and 116ff (author popularity relating to book borrow counts), the event years and counts were important for the result, which is why they use the same filter method. For line 103ff (borrow count for books by a specific author), the title and the counts were important. For filtering this query data, I needed to adjust the filter I previously used, which resulted in the definition of author_items.
+
+During the implementation of the project I faced three major difficulties: 
+1. cleaning the data in a way that does not distort the results 
+2. creating timeline diagrams because the cleaning of the data was more complex for these types of diagrams
+3. structuring the code and defining functions that organize the code in a convenient way while still providing optional arguments and adjustments
