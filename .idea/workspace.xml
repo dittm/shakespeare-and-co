@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dce82edc-d633-4079-922d-5c3b7217a7de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shakespeare-and-co.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/format-distribution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/improved-code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/SCoDatasetEssay_v1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/SCoDatasetEssay_v1_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/ban_ratio-total_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/ban_ratio-total_author.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/ban_ratio-unique_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/ban_ratio-unique_author.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/known_unknown_demographics.svg" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/known_unknown_demographics.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/member_is_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/member_is_author.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/members.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/members.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/shakespeare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/shakespeare.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2faXJCD1mxnSaTnhl1nXlPf2IL3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dittm/Documents&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce82edc-d633-4079-922d-5c3b7217a7de" name="Changes" comment="" />
+      <created>1714040091562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714040091562</updated>
+      <workItem from="1714040094293" duration="662000" />
+      <workItem from="1714045814099" duration="32000" />
+      <workItem from="1714046603351" duration="67000" />
+      <workItem from="1714046899960" duration="15000" />
+      <workItem from="1714205240931" duration="392000" />
+      <workItem from="1714205656173" duration="12688000" />
+      <workItem from="1714491855788" duration="82000" />
+      <workItem from="1714491970571" duration="10582000" />
+      <workItem from="1715246908975" duration="13183000" />
+      <workItem from="1715672984014" duration="214000" />
+      <workItem from="1715673375237" duration="1288000" />
+      <workItem from="1717580081896" duration="1131000" />
+      <workItem from="1717667176188" duration="3559000" />
+      <workItem from="1717921667199" duration="533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
