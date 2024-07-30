@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-30">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="A Portrait of the Artist as a Young Man" label="A Portrait of the Artist as a Young Man" />
+      <node id="Aragon, Louis" label="Aragon, Louis" />
+      <node id="And Even Now" label="And Even Now" />
+      <node id="Boyd, James" label="Boyd, James" />
+      <node id="Death in the Afternoon" label="Death in the Afternoon" />
+      <node id="Connolly, Cyril" label="Connolly, Cyril" />
+      <node id="Miss Lonelyhearts" label="Miss Lonelyhearts" />
+      <node id="San Cristobal de la Habana" label="San Cristobal de la Habana" />
+      <node id="The Virgin and the Gipsy" label="The Virgin and the Gipsy" />
+      <node id="Far Away and Long Ago" label="Far Away and Long Ago" />
+      <node id="Dennis, Mary Cable" label="Dennis, Mary Cable" />
+      <node id="Oscar Wilde: A Critical Study" label="Oscar Wilde: A Critical Study" />
+      <node id="Oscar Wilde: His Life and Confessions" label="Oscar Wilde: His Life and Confessions" />
+      <node id="Peter Abelard: A Novel" label="Peter Abelard: A Novel" />
+      <node id="Seven Brothers" label="Seven Brothers" />
+      <node id="So Red the Rose" label="So Red the Rose" />
+      <node id="The Dead Don't Care" label="The Dead Don't Care" />
+      <node id="Tobit Transplanted" label="Tobit Transplanted" />
+      <node id="Warrant for X" label="Warrant for X" />
+      <node id="Son of Woman: The Story of D. H. Lawrence" label="Son of Woman: The Story of D. H. Lawrence" />
+      <node id="Flandrau, Grace" label="Flandrau, Grace" />
+      <node id="Flush: A Biography" label="Flush: A Biography" />
+      <node id="Gascoyne, David" label="Gascoyne, David" />
+      <node id="The Autobiography of Alice B. Toklas" label="The Autobiography of Alice B. Toklas" />
+      <node id="Thomas the Impostor" label="Thomas the Impostor" />
+      <node id="Year before Last" label="Year before Last" />
+      <node id="transition" label="transition" />
+      <node id="Back to Montparnasse: Glimpses of Broadway in Bohemia" label="Back to Montparnasse: Glimpses of Broadway in Bohemia" />
+      <node id="Gilbert, Stuart" label="Gilbert, Stuart" />
+      <node id="Hound &amp; Horn" label="Hound &amp; Horn" />
+      <node id="Shakespeare's &quot;Hamlet&quot;" label="Shakespeare's &quot;Hamlet&quot;" />
+      <node id="The Symposium: A Critical Review" label="The Symposium: A Critical Review" />
+      <node id="Willam Blake's Works" label="Willam Blake's Works" />
+      <node id="A Mirror to France" label="A Mirror to France" />
+      <node id="Hemingway, Ernest" label="Hemingway, Ernest" />
+      <node id="Buddenbrooks" label="Buddenbrooks" />
+      <node id="Lady Chatterley's Lover" label="Lady Chatterley's Lover" />
+      <node id="New Masses" label="New Masses" />
+      <node id="Sentimental Education" label="Sentimental Education" />
+      <node id="Sober Truth: A Collection of Nineteenth-Century Episodes, Fantastic, Grotesque and Mysterious" label="Sober Truth: A Collection of Nineteenth-Century Episodes, Fantastic, Grotesque and Mysterious" />
+      <node id="Strait Is the Gate" label="Strait Is the Gate" />
+      <node id="The Best Short Stories of 1925: And the Yearbook of the American Short Story" label="The Best Short Stories of 1925: And the Yearbook of the American Short Story" />
+      <node id="The Charterhouse of Parma" label="The Charterhouse of Parma" />
+      <node id="The Dial" label="The Dial" />
+      <node id="The Guillotine and Its Servants" label="The Guillotine and Its Servants" />
+      <node id="The Life, Work, and Evil Fate of Guy de Maupassant" label="The Life, Work, and Evil Fate of Guy de Maupassant" />
+      <node id="The Magic Mountain" label="The Magic Mountain" />
+      <node id="The New Republic" label="The New Republic" />
+      <node id="The World's Illusion" label="The World's Illusion" />
+      <node id="This Quarter" label="This Quarter" />
+      <node id="Three Lives" label="Three Lives" />
+      <node id="Joyce, James" label="Joyce, James" />
+      <node id="Daedalus; Or, Science and the Future" label="Daedalus; Or, Science and the Future" />
+      <node id="My Life" label="My Life" />
+      <node id="Poetical Works" label="Poetical Works" />
+      <node id="The Adventures of Peregrine Pickle" label="The Adventures of Peregrine Pickle" />
+      <node id="The Works of Sterne: The Life and Opinions of Tristram Shandy, Gentleman &amp; A Sentimental Journey through France and Italy" label="The Works of Sterne: The Life and Opinions of Tristram Shandy, Gentleman &amp; A Sentimental Journey through France and Italy" />
+      <node id="To Return to Yesterday: Reminiscences 1894 – 1914" label="To Return to Yesterday: Reminiscences 1894 – 1914" />
+      <node id="Travels in Arabia Deserta" label="Travels in Arabia Deserta" />
+      <node id="Le Gallienne, Richard" label="Le Gallienne, Richard" />
+      <node id="Poems" label="Poems" />
+      <node id="Swann's Way (À la recherche du temps perdu 1)" label="Swann's Way (À la recherche du temps perdu 1)" />
+      <node id="The Romance of the Paris Streets" label="The Romance of the Paris Streets" />
+      <node id="The Wings of the Dove" label="The Wings of the Dove" />
+      <node id="Poor White" label="Poor White" />
+      <node id="Mansfield, Katherine" label="Mansfield, Katherine" />
+      <node id="The Triumph of the Egg" label="The Triumph of the Egg" />
+      <node id="McAlmon, Robert" label="McAlmon, Robert" />
+      <node id="Merrick, Leonard" label="Merrick, Leonard" />
+      <node id="Sexual Inversion (Studies in the Psychology of Sex 2)" label="Sexual Inversion (Studies in the Psychology of Sex 2)" />
+      <node id="The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism (Studies in the Psychology of Sex 1)" label="The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism (Studies in the Psychology of Sex 1)" />
+      <node id="Paul, Elliot" label="Paul, Elliot" />
+      <node id="A Companion Volume" label="A Companion Volume" />
+      <node id="Porter, Katherine Anne" label="Porter, Katherine Anne" />
+      <node id="A Passage to India" label="A Passage to India" />
+      <node id="Books and Characters, French and English" label="Books and Characters, French and English" />
+      <node id="Distinguished Air: Grim Fairy Tales" label="Distinguished Air: Grim Fairy Tales" />
+      <node id="The Criterion" label="The Criterion" />
+      <node id="Rodker, John" label="Rodker, John" />
+      <node id="Some Contemporary Poets (1920)" label="Some Contemporary Poets (1920)" />
+      <node id="Rogers, Samuel" label="Rogers, Samuel" />
+      <node id="Schlumberger, Jean" label="Schlumberger, Jean" />
+      <node id="Solano, Solita" label="Solano, Solita" />
+      <node id="Moby-Dick; Or, the Whale" label="Moby-Dick; Or, the Whale" />
+      <node id="Lewis Seymour and Some Women" label="Lewis Seymour and Some Women" />
+      <node id="Stein, Gertrude" label="Stein, Gertrude" />
+      <node id="An American Tragedy" label="An American Tragedy" />
+      <node id="Wickham, Anna" label="Wickham, Anna" />
+      <node id="Wilder, Thornton" label="Wilder, Thornton" />
+      <node id="Legend" label="Legend" />
+      <node id="Dark Laughter" label="Dark Laughter" />
+      <node id="Wilson, Margaret" label="Wilson, Margaret" />
+      <node id="Wilson, Romer" label="Wilson, Romer" />
+      <node id="de Lanux, Pierre" label="de Lanux, Pierre" />
+    </nodes>
+    <edges>
+      <edge source="A Portrait of the Artist as a Young Man" target="Aragon, Louis" id="0" />
+      <edge source="A Portrait of the Artist as a Young Man" target="Le Gallienne, Richard" id="1" />
+      <edge source="A Portrait of the Artist as a Young Man" target="Rodker, John" id="2" />
+      <edge source="A Portrait of the Artist as a Young Man" target="Wilson, Romer" id="3" />
+      <edge source="And Even Now" target="Boyd, James" id="4" />
+      <edge source="And Even Now" target="Wilder, Thornton" id="5" />
+      <edge source="And Even Now" target="Wilson, Romer" id="6" />
+      <edge source="Death in the Afternoon" target="Connolly, Cyril" id="7" />
+      <edge source="Death in the Afternoon" target="Porter, Katherine Anne" id="8" />
+      <edge source="Connolly, Cyril" target="Miss Lonelyhearts" id="9" />
+      <edge source="Connolly, Cyril" target="San Cristobal de la Habana" id="10" />
+      <edge source="Connolly, Cyril" target="The Virgin and the Gipsy" id="11" />
+      <edge source="Miss Lonelyhearts" target="Porter, Katherine Anne" id="12" />
+      <edge source="San Cristobal de la Habana" target="Le Gallienne, Richard" id="13" />
+      <edge source="The Virgin and the Gipsy" target="Hemingway, Ernest" id="14" />
+      <edge source="Far Away and Long Ago" target="Dennis, Mary Cable" id="15" />
+      <edge source="Far Away and Long Ago" target="Hemingway, Ernest" id="16" />
+      <edge source="Dennis, Mary Cable" target="Oscar Wilde: A Critical Study" id="17" />
+      <edge source="Dennis, Mary Cable" target="Oscar Wilde: His Life and Confessions" id="18" />
+      <edge source="Dennis, Mary Cable" target="Peter Abelard: A Novel" id="19" />
+      <edge source="Dennis, Mary Cable" target="Seven Brothers" id="20" />
+      <edge source="Dennis, Mary Cable" target="So Red the Rose" id="21" />
+      <edge source="Dennis, Mary Cable" target="The Dead Don't Care" id="22" />
+      <edge source="Dennis, Mary Cable" target="Tobit Transplanted" id="23" />
+      <edge source="Dennis, Mary Cable" target="Warrant for X" id="24" />
+      <edge source="Oscar Wilde: A Critical Study" target="Joyce, James" id="25" />
+      <edge source="Oscar Wilde: His Life and Confessions" target="Joyce, James" id="26" />
+      <edge source="Peter Abelard: A Novel" target="Porter, Katherine Anne" id="27" />
+      <edge source="Seven Brothers" target="Le Gallienne, Richard" id="28" />
+      <edge source="So Red the Rose" target="Porter, Katherine Anne" id="29" />
+      <edge source="The Dead Don't Care" target="Hemingway, Ernest" id="30" />
+      <edge source="Tobit Transplanted" target="Schlumberger, Jean" id="31" />
+      <edge source="Warrant for X" target="Paul, Elliot" id="32" />
+      <edge source="Son of Woman: The Story of D. H. Lawrence" target="Flandrau, Grace" id="33" />
+      <edge source="Son of Woman: The Story of D. H. Lawrence" target="Schlumberger, Jean" id="34" />
+      <edge source="Flush: A Biography" target="Gascoyne, David" id="35" />
+      <edge source="Flush: A Biography" target="Solano, Solita" id="36" />
+      <edge source="Gascoyne, David" target="The Autobiography of Alice B. Toklas" id="37" />
+      <edge source="Gascoyne, David" target="Thomas the Impostor" id="38" />
+      <edge source="Gascoyne, David" target="Year before Last" id="39" />
+      <edge source="Gascoyne, David" target="transition" id="40" />
+      <edge source="The Autobiography of Alice B. Toklas" target="Porter, Katherine Anne" id="41" />
+      <edge source="The Autobiography of Alice B. Toklas" target="Solano, Solita" id="42" />
+      <edge source="Thomas the Impostor" target="Le Gallienne, Richard" id="43" />
+      <edge source="Year before Last" target="Porter, Katherine Anne" id="44" />
+      <edge source="transition" target="Hemingway, Ernest" id="45" />
+      <edge source="Back to Montparnasse: Glimpses of Broadway in Bohemia" target="Gilbert, Stuart" id="46" />
+      <edge source="Back to Montparnasse: Glimpses of Broadway in Bohemia" target="Joyce, James" id="47" />
+      <edge source="Gilbert, Stuart" target="Hound &amp; Horn" id="48" />
+      <edge source="Gilbert, Stuart" target="Shakespeare's &quot;Hamlet&quot;" id="49" />
+      <edge source="Gilbert, Stuart" target="The Symposium: A Critical Review" id="50" />
+      <edge source="Gilbert, Stuart" target="Willam Blake's Works" id="51" />
+      <edge source="Hound &amp; Horn" target="Porter, Katherine Anne" id="52" />
+      <edge source="Hound &amp; Horn" target="Rogers, Samuel" id="53" />
+      <edge source="Shakespeare's &quot;Hamlet&quot;" target="de Lanux, Pierre" id="54" />
+      <edge source="The Symposium: A Critical Review" target="Porter, Katherine Anne" id="55" />
+      <edge source="Willam Blake's Works" target="Rodker, John" id="56" />
+      <edge source="A Mirror to France" target="Hemingway, Ernest" id="57" />
+      <edge source="A Mirror to France" target="Le Gallienne, Richard" id="58" />
+      <edge source="Hemingway, Ernest" target="Buddenbrooks" id="59" />
+      <edge source="Hemingway, Ernest" target="Lady Chatterley's Lover" id="60" />
+      <edge source="Hemingway, Ernest" target="New Masses" id="61" />
+      <edge source="Hemingway, Ernest" target="Sentimental Education" id="62" />
+      <edge source="Hemingway, Ernest" target="Sober Truth: A Collection of Nineteenth-Century Episodes, Fantastic, Grotesque and Mysterious" id="63" />
+      <edge source="Hemingway, Ernest" target="Strait Is the Gate" id="64" />
+      <edge source="Hemingway, Ernest" target="The Best Short Stories of 1925: And the Yearbook of the American Short Story" id="65" />
+      <edge source="Hemingway, Ernest" target="The Charterhouse of Parma" id="66" />
+      <edge source="Hemingway, Ernest" target="The Dial" id="67" />
+      <edge source="Hemingway, Ernest" target="The Guillotine and Its Servants" id="68" />
+      <edge source="Hemingway, Ernest" target="The Life, Work, and Evil Fate of Guy de Maupassant" id="69" />
+      <edge source="Hemingway, Ernest" target="The Magic Mountain" id="70" />
+      <edge source="Hemingway, Ernest" target="The New Republic" id="71" />
+      <edge source="Hemingway, Ernest" target="The World's Illusion" id="72" />
+      <edge source="Hemingway, Ernest" target="This Quarter" id="73" />
+      <edge source="Hemingway, Ernest" target="Three Lives" id="74" />
+      <edge source="Buddenbrooks" target="Le Gallienne, Richard" id="75" />
+      <edge source="Lady Chatterley's Lover" target="Joyce, James" id="76" />
+      <edge source="Lady Chatterley's Lover" target="Merrick, Leonard" id="77" />
+      <edge source="New Masses" target="Porter, Katherine Anne" id="78" />
+      <edge source="Sentimental Education" target="Le Gallienne, Richard" id="79" />
+      <edge source="Sober Truth: A Collection of Nineteenth-Century Episodes, Fantastic, Grotesque and Mysterious" target="Porter, Katherine Anne" id="80" />
+      <edge source="Strait Is the Gate" target="Le Gallienne, Richard" id="81" />
+      <edge source="The Best Short Stories of 1925: And the Yearbook of the American Short Story" target="de Lanux, Pierre" id="82" />
+      <edge source="The Charterhouse of Parma" target="McAlmon, Robert" id="83" />
+      <edge source="The Dial" target="Wickham, Anna" id="84" />
+      <edge source="The Guillotine and Its Servants" target="Le Gallienne, Richard" id="85" />
+      <edge source="The Life, Work, and Evil Fate of Guy de Maupassant" target="Le Gallienne, Richard" id="86" />
+      <edge source="The Magic Mountain" target="Le Gallienne, Richard" id="87" />
+      <edge source="The New Republic" target="Porter, Katherine Anne" id="88" />
+      <edge source="The World's Illusion" target="Stein, Gertrude" id="89" />
+      <edge source="This Quarter" target="de Lanux, Pierre" id="90" />
+      <edge source="Three Lives" target="Joyce, James" id="91" />
+      <edge source="Three Lives" target="Mansfield, Katherine" id="92" />
+      <edge source="Joyce, James" target="Daedalus; Or, Science and the Future" id="93" />
+      <edge source="Joyce, James" target="My Life" id="94" />
+      <edge source="Joyce, James" target="Poetical Works" id="95" />
+      <edge source="Joyce, James" target="The Adventures of Peregrine Pickle" id="96" />
+      <edge source="Joyce, James" target="The Works of Sterne: The Life and Opinions of Tristram Shandy, Gentleman &amp; A Sentimental Journey through France and Italy" id="97" />
+      <edge source="Joyce, James" target="To Return to Yesterday: Reminiscences 1894 – 1914" id="98" />
+      <edge source="Joyce, James" target="Travels in Arabia Deserta" id="99" />
+      <edge source="Daedalus; Or, Science and the Future" target="Solano, Solita" id="100" />
+      <edge source="My Life" target="Le Gallienne, Richard" id="101" />
+      <edge source="Poetical Works" target="Wilder, Thornton" id="102" />
+      <edge source="The Adventures of Peregrine Pickle" target="Le Gallienne, Richard" id="103" />
+      <edge source="The Works of Sterne: The Life and Opinions of Tristram Shandy, Gentleman &amp; A Sentimental Journey through France and Italy" target="Schlumberger, Jean" id="104" />
+      <edge source="To Return to Yesterday: Reminiscences 1894 – 1914" target="Porter, Katherine Anne" id="105" />
+      <edge source="Travels in Arabia Deserta" target="Le Gallienne, Richard" id="106" />
+      <edge source="Le Gallienne, Richard" target="Poems" id="107" />
+      <edge source="Le Gallienne, Richard" target="Swann's Way (À la recherche du temps perdu 1)" id="108" />
+      <edge source="Le Gallienne, Richard" target="The Romance of the Paris Streets" id="109" />
+      <edge source="Le Gallienne, Richard" target="The Wings of the Dove" id="110" />
+      <edge source="Poems" target="Wickham, Anna" id="111" />
+      <edge source="Swann's Way (À la recherche du temps perdu 1)" target="Solano, Solita" id="112" />
+      <edge source="The Romance of the Paris Streets" target="Solano, Solita" id="113" />
+      <edge source="The Wings of the Dove" target="McAlmon, Robert" id="114" />
+      <edge source="Poor White" target="Mansfield, Katherine" id="115" />
+      <edge source="Poor White" target="Solano, Solita" id="116" />
+      <edge source="Mansfield, Katherine" target="The Triumph of the Egg" id="117" />
+      <edge source="The Triumph of the Egg" target="Solano, Solita" id="118" />
+      <edge source="Merrick, Leonard" target="Sexual Inversion (Studies in the Psychology of Sex 2)" id="119" />
+      <edge source="Merrick, Leonard" target="The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism (Studies in the Psychology of Sex 1)" id="120" />
+      <edge source="Sexual Inversion (Studies in the Psychology of Sex 2)" target="Wilson, Margaret" id="121" />
+      <edge source="The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism (Studies in the Psychology of Sex 1)" target="Wilson, Margaret" id="122" />
+      <edge source="A Companion Volume" target="Porter, Katherine Anne" id="123" />
+      <edge source="A Companion Volume" target="de Lanux, Pierre" id="124" />
+      <edge source="Porter, Katherine Anne" target="A Passage to India" id="125" />
+      <edge source="Porter, Katherine Anne" target="Books and Characters, French and English" id="126" />
+      <edge source="Porter, Katherine Anne" target="Distinguished Air: Grim Fairy Tales" id="127" />
+      <edge source="Porter, Katherine Anne" target="The Criterion" id="128" />
+      <edge source="A Passage to India" target="Solano, Solita" id="129" />
+      <edge source="Books and Characters, French and English" target="Solano, Solita" id="130" />
+      <edge source="Distinguished Air: Grim Fairy Tales" target="de Lanux, Pierre" id="131" />
+      <edge source="The Criterion" target="de Lanux, Pierre" id="132" />
+      <edge source="Rodker, John" target="Some Contemporary Poets (1920)" id="133" />
+      <edge source="Some Contemporary Poets (1920)" target="Wickham, Anna" id="134" />
+      <edge source="Solano, Solita" target="Moby-Dick; Or, the Whale" id="135" />
+      <edge source="Moby-Dick; Or, the Whale" target="Wilson, Margaret" id="136" />
+      <edge source="Lewis Seymour and Some Women" target="Stein, Gertrude" id="137" />
+      <edge source="Lewis Seymour and Some Women" target="Wilson, Romer" id="138" />
+      <edge source="An American Tragedy" target="Wickham, Anna" id="139" />
+      <edge source="An American Tragedy" target="de Lanux, Pierre" id="140" />
+      <edge source="Wilder, Thornton" target="Legend" id="141" />
+      <edge source="Legend" target="de Lanux, Pierre" id="142" />
+      <edge source="Dark Laughter" target="Wilson, Margaret" id="143" />
+      <edge source="Dark Laughter" target="de Lanux, Pierre" id="144" />
+    </edges>
+  </graph>
+</gexf>

@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce82edc-d633-4079-922d-5c3b7217a7de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shakespeare-and-co.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/format-distribution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/improved-code.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/testing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/SCoDatasetEssay_v1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/SCoDatasetEssay_v1_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/ban_ratio-total_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/ban_ratio-total_author.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/ban_ratio-unique_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/ban_ratio-unique_author.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/known_unknown_demographics.svg" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/known_unknown_demographics.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/books.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/eda_unknown.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/eda_unknown.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/format-distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/intersection_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/known_unknown_demographics.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/member_is_author.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/member_is_author.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/members.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/members.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/membership_month_year.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/shakespeare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/shakespeare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/testing.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +70,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -101,6 +96,13 @@
       <workItem from="1717580081896" duration="1131000" />
       <workItem from="1717667176188" duration="3559000" />
       <workItem from="1717921667199" duration="533000" />
+      <workItem from="1718010687168" duration="31000" />
+      <workItem from="1718179162265" duration="2269000" />
+      <workItem from="1718284699510" duration="773000" />
+      <workItem from="1718543783577" duration="736000" />
+      <workItem from="1718544680125" duration="60000" />
+      <workItem from="1718699782515" duration="215000" />
+      <workItem from="1721201707740" duration="44000" />
     </task>
     <servers />
   </component>
