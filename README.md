@@ -78,7 +78,6 @@ Lists the Python packages required to replicate the analysis. This ensures that 
 The data directory is subdivided into:
 - **raw/**: Contains the original, unmodified datasets.
 - **processed/**: Houses datasets that have undergone cleaning or filtering (e.g., the CSV file with filtered entries).
-- **external/**: Stores additional datasets sourced externally that are used in the analysis but remain unaltered.
 
 **notebooks/**  
 Contains the Jupyter notebooks that form the core of the exploratory data analysis. Each notebook is dedicated to a specific aspect of the analysis—from data acquisition through various analytical approaches (geographical, statistical, network-based).
