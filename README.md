@@ -1,38 +1,46 @@
 ## Master's Thesis Repository
 
-This repository accompanies my Master's thesis, which investigates the following research question:
+This repository supports my Master's thesis, which investigates the following research question:
 
-**What patterns of literary influence and social connectivity emerge from the borrowing activity among author-members of the Shakespeare and Company lending library in the early 20th century?**
+> **What patterns of literary influence and social connectivity emerge from the borrowing activity among author-members of the Shakespeare and Company lending library in the early 20th century?**
 
 ### Definition of Author-Members
-**Author-members** are defined as individuals who had at least one book, authored solely by them, available in the Shakespeare and Company lending library.
 
-### Contents of This Repository
+**Author-members** are defined as individuals who had at least one book—authored solely by themselves—available in the Shakespeare and Company lending library.
 
-The following Jupyter notebooks and analyses are included in this repository:
+### Repository Contents
 
-#### 1. Calculation of Author-Member Intersections
-- Identifies shared characteristics among author-members based on borrowing activity.
+This repository contains a series of Jupyter notebooks and supplementary analyses that explore various dimensions of the borrowing activity. The notebooks are organized into the following thematic sections:
 
-#### 2. Geographical Analysis of Author-Members
-- **By Continent:** Examines the distribution of author-members across different continents.
-- **In and Around Paris:** Focuses on author-member locations in Paris and its surrounding areas.
-- **Shared Addresses:** Analyzes shared addresses among author-members to explore potential connections.
+1. **Calculation of Author-Member Intersections**  
+   - Identifies shared characteristics among author-members based on their borrowing activity.
 
-#### 3. Statistical Analysis
-- **Nationalities:** Examines the national origins of author-members.
-- **Gender:** Analyzes the gender distribution of author-members.
-- **Birth Years:** Investigates the birth years of author-members to identify generational patterns.
+2. **Geographical Analysis of Author-Members**  
+   - **By Continent:** Investigates the global distribution of author-members.  
+   - **In and Around Paris:** Focuses on the spatial distribution within Paris and its environs.  
+   - **Shared Addresses:** Explores instances of shared addresses among author-members to infer possible social connections.
 
-#### 4. Calculation of Books Authored by Author-Members
-- Quantifies the contributions of author-members to the lending library's catalog.
+3. **Statistical Analysis**  
+   - **Nationalities:** Analyzes the national origins of the author-members.  
+   - **Books:** Quantifies the contributions of author-members to the lending library's catalog.
 
-#### 5. Network Analysis of Borrowing Activity
-- **All Books:**
-  - Analyzes borrowing activity across the entire collection of the lending library.
-  - Includes calculations of network metrics (e.g., centrality, clustering).
-- **Author-Member Books Only:**
-  - Focuses specifically on borrowing activity related to books authored by author-members.
-  - Includes calculations of network metrics tailored to this subset.
+4. **Network Analysis of Borrowing Activity**  
+   - **All Books:**  
+     - Examines the overall borrowing activity in the library.  
+     - Includes computations of network metrics such as centrality and clustering.  
+   - **Author-Member Books Only:**  
+     - Focuses exclusively on borrowing patterns for books authored by the author-members.  
+     - Provides network metrics specific to this subset.
 
-This repository provides the necessary tools and analyses to explore the cultural and social dynamics of the Shakespeare and Company lending library during its operation in the early 20th century.
+These analyses collectively aim to illuminate the cultural and social dynamics that characterized the lending practices and interpersonal relationships of early twentieth-century literary communities.
+
+### Data Sources
+
+The data analyzed in this project were obtained from the [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/), a digital humanities initiative dedicated to reconstructing the lending library's collection and membership. Detailed metadata and documentation are provided within the repository.
+
+### Requirements and Environment Setup
+
+The analyses were conducted using Python 3.7. All necessary dependencies are listed in the `requirements.txt` file. To replicate the environment, execute the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
