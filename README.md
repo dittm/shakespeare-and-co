@@ -44,3 +44,52 @@ The analyses were conducted using Python 3.7. All necessary dependencies are lis
 
 ```bash
 pip install -r requirements.txt
+```
+
+For enhanced reproducibility, consider using a virtual environment (e.g., `venv` or `conda`).
+
+### File Structure Overview
+Below is an overview of the repository’s file structure.
+
+```plaintext
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── raw/                # Contains the original data files as obtained from external sources.
+│   └──  processed/          # Includes data files that have been cleaned, filtered, or otherwise transformed.
+├── notebooks/
+│   ├── 01_data_acquisition.ipynb    # Notebook documenting the data gathering and initial processing.
+│   ├── 02_geospatial_analysis.ipynb # Notebook focused on geographical analysis of author-members.
+│   ├── 03_statistical_analysis.ipynb# Notebook containing statistical examinations of nationalities and book contributions.
+│   └── 04_network_analysis.ipynb    # Notebook dedicated to network analysis of borrowing activity.
+├── utils.py              # Contains reusable functions (e.g., name sorting) referenced across notebooks.
+└── (Other configuration files, such as .gitignore, etc.)
+```
+
+### Explanation of Key Components
+
+**README.md**  
+Provides an overview of the project, including the research question, methodology, and instructions for environment setup and execution of the notebooks.
+
+**requirements.txt**  
+Lists the Python packages required to replicate the analysis. This ensures that users can recreate the computational environment by installing the specified versions of libraries.
+
+**data/**  
+The data directory is subdivided into:
+- **raw/**: Contains the original, unmodified datasets.
+- **processed/**: Houses datasets that have undergone cleaning or filtering (e.g., the CSV file with filtered entries).
+- **external/**: Stores additional datasets sourced externally that are used in the analysis but remain unaltered.
+
+**notebooks/**  
+Contains the Jupyter notebooks that form the core of the exploratory data analysis. Each notebook is dedicated to a specific aspect of the analysis—from data acquisition through various analytical approaches (geographical, statistical, network-based).
+
+**utils.py**  
+A Python module with helper functions reused across multiple notebooks. This modular approach enhances maintainability and ensures consistency in common tasks.
+
+### Usage and Execution
+
+Each Jupyter notebook in this repository is self-contained and includes explanatory markdown cells detailing the methodology, results, and interpretations. Users are encouraged to review these narrative sections to fully understand the analytical approach and outcomes.
+
+### Acknowledgments
+
+This research is part of my Master's thesis in Digital Humanities. I express my gratitude to my supervisor and the academic community for their guidance and insights.
