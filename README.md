@@ -62,7 +62,7 @@ Below is an overview of the repository’s file structure.
 │   ├── 02_geospatial_analysis.ipynb # Notebook focused on geographical analysis of author-members.
 │   ├── 03_statistical_analysis.ipynb# Notebook containing statistical examinations of nationalities and book contributions.
 │   └── 04_network_analysis.ipynb    # Notebook dedicated to network analysis of borrowing activity.
-├── utils.py              # Contains reusable functions (e.g., name sorting) referenced across notebooks.
+├── utils.py              # Contains reusable functions (in this case, name sorting) referenced across notebooks.
 └── (Other configuration files, such as .gitignore, etc.)
 ```
 
