@@ -16,7 +16,7 @@ This repository contains a series of Jupyter notebooks and supplementary analyse
    - Identifies shared characteristics among author-members based on their borrowing activity.
 
 2. **Geographical Analysis of Author-Members**  
-   - **By Continent:** Investigates the global distribution of author-members.  
+   - **By Region:** Investigates the global distribution of author-members.  
    - **In and Around Paris:** Focuses on the spatial distribution within Paris and its environs.  
    - **Shared Addresses:** Explores instances of shared addresses among author-members to infer possible social connections.
 
