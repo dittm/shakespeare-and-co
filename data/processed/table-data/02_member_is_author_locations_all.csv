@@ -21,16 +21,13 @@ latitude,longitude,sort_name,address
 48.8552,2.33695,"Briffault, Robert","49 rue de Seine, Paris"
 48.85703,2.34182,"Brinig, Myron","City Hôtel, 29 Place Dauphine, Paris"
 48.86651,2.27207,"Bromfield, Louis","25 boulevard Flandrin, Paris"
-,,Bryher,
 48.83713,2.34214,"Callaghan, Morley","2 square de Port-Royal, Paris"
-,,"Clarke, Austin","Hôtel Jules Cesar, Paris"
 48.84456,2.32261,"Clark, Elizabeth","Hôtel Versailles, 60 boulevard du Montparnasse, Paris"
 48.85092,2.33845,"Colum, Padraic","12 rue de l'Odéon, Paris"
 48.85996,2.31835,"Connolly, Cyril","Hotel de Bourgogne, 7 rue de Bourgogne, Paris"
 51.50914,-0.13569,"Connolly, Cyril","National Provincial Bank of England, 208 Piccadilly W., London"
 48.84133,2.32801,"Connolly, Cyril","Grand Hôtel des Écoles, 15 rue Delambre, Paris"
 48.8536,2.33687,"Connolly, Cyril","Hotel de la Louisiane, 60 rue de Seine, Paris"
-,,"Cowley, Malcolm",Giverny
 48.8359,2.3343,"Coyle, Kathleen","79 rue Denfert-Rochereau, Paris"
 48.84969,2.3338,"Coyle, Kathleen","4 rue Férou, Paris"
 48.85108,2.35902,"Coyle, Kathleen","6 rue Saint-Louis en l'Île, Paris"
@@ -39,7 +36,6 @@ latitude,longitude,sort_name,address
 48.88427,2.27859,"Dennis, Mary Cable","19 rue Perronet, Neuilly-sur-Seine"
 48.84298,2.33099,"Eastman, Max","Hotel de Lutece, 5 rue Jules Chaplain, Paris"
 48.85121,2.33717,"Edel, Leon","5 rue de Tournon, Paris"
-,,"Firbank, Ronald","Denby Cottage, Richmond"
 48.85069,2.33522,"Fitzgerald, F. Scott","3 rue Palatine, Paris"
 48.84951,2.33627,"Flandrau, Grace","34 rue de Vaugirard, Paris"
 48.85596,2.33698,"Ford, Ford Madox","31 rue de Seine, Paris"
@@ -53,7 +49,6 @@ latitude,longitude,sort_name,address
 48.85331,2.35379,"Gilbert, Stuart","7 rue Jean de Bellay, Paris"
 48.87321,2.28155,"Goldring, Douglas","60 avenue du Bois de Boulogne, Paris"
 48.84706,2.32339,"Gordon, Jan","5 rue de Bagneux, Paris"
-,,"Gorman, Herbert Sherman",
 48.85387,2.27812,"Gramont, Élisabeth de","69 rue Raynouard, Paris"
 49.47052,1.07488,"Guilloux, Louis","20 rue le Verrier, Paris"
 43.69556,7.26367,"Harris, Frank","American Express, 2 rue du Congrès, Nice"
@@ -142,16 +137,13 @@ latitude,longitude,sort_name,address
 48.85737,2.33161,"Rodker, John","Hotel du Pavillon, 6 rue de Verneuil, Paris"
 48.83728,2.33692,"Rogers, Samuel","14 rue Cassini, Paris"
 48.82908,2.33473,"Romains, Jules","27 avenue René Coty, Paris"
-,,"Romains, Jules","27 rue du Parc-de-Montsouris, Paris"
 48.84461,2.33221,"Schlumberger, Jean","78 rue d'Assas, Paris"
 48.85509,2.33358,"Solano, Solita","Hôtel Saint Germain des Prés, 36 rue Bonaparte, Paris"
 51.49603,-0.22107,"Spender, Stephen","Queens Mansions, 11, London"
 51.05791,0.83861,"Spender, Stephen",Warehorne
-,,"Steffens, Lincoln",
 48.84691,2.32937,"Stein, Gertrude","27 rue de Fleurus, Paris"
 43.65576,7.15934,"Stein, Gertrude","La Villa des Oliviers, 13 rue des Capucines, Cagnes-sur-Mer"
 48.84133,2.33183,"Stern, James","rue René-Pauline, Paris"
-,,"Tate, Allen",
 48.85171,2.35467,"Tree, Iris","20 quai d'Orléans, Paris"
 48.84899,2.33389,"Wescott, Glenway","Savoy Hotel, 30 rue de Vaugirard, Paris"
 48.84058,2.32972,"Wescott, Glenway","218 boulevard Raspail, Paris"
