@@ -60,7 +60,7 @@ Below is an overview of the repository’s file structure.
 │   ├── raw/                # Contains the original data files as obtained from external sources.
 │   └──  processed/          # Includes data files that have been cleaned, filtered, or otherwise transformed.
 ├── notebooks/
-|  ├── 00_introduction.ipynb        # Notebook providing an overview of the research question and methodology.
+|   ├── 00_introduction.ipynb        # Notebook providing an overview of the research question and methodology.
 │   ├── 01_intersection.ipynb    # Notebook determining the intersection of authors and members.
 │   ├── 02_geospatial_analysis.ipynb # Notebook focused on geographical analysis of author-members.
 │   ├── 03_statistical_analysis.ipynb# Notebook containing statistical examinations of nationalities and book contributions.
