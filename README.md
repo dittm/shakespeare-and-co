@@ -14,6 +14,7 @@ This repository contains a series of Jupyter notebooks and supplementary analyse
 
 1. **Calculation of Author-Member Intersections**  
    - Identifies shared characteristics among author-members based on their borrowing activity.
+   - The resulting dataset (`01_author_is_member.csv`) is used as the foundation for subsequent analyses.
 
 2. **Geographical Analysis of Author-Members**  
    - **By Region:** Investigates the global distribution of author-members.  
@@ -59,7 +60,8 @@ Below is an overview of the repository’s file structure.
 │   ├── raw/                # Contains the original data files as obtained from external sources.
 │   └──  processed/          # Includes data files that have been cleaned, filtered, or otherwise transformed.
 ├── notebooks/
-│   ├── 01_data_acquisition.ipynb    # Notebook documenting the data gathering and initial processing.
+|  ├── 00_introduction.ipynb        # Notebook providing an overview of the research question and methodology.
+│   ├── 01_intersection.ipynb    # Notebook determining the intersection of authors and members.
 │   ├── 02_geospatial_analysis.ipynb # Notebook focused on geographical analysis of author-members.
 │   ├── 03_statistical_analysis.ipynb# Notebook containing statistical examinations of nationalities and book contributions.
 │   └── 04_network_analysis.ipynb    # Notebook dedicated to network analysis of borrowing activity.
