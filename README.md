@@ -26,11 +26,12 @@ This repository contains a series of Jupyter notebooks and supplementary analyse
 
 4. **Network Analysis of Borrowing Activity**  
    - **All Books:**  
-     - Examines the overall borrowing activity in the library.  
+     - Examines the overall borrowing activity of any title among author-members in the library.  
      - Includes computations of network metrics such as centrality and clustering.  
    - **Author-Member Books Only:**  
-     - Focuses exclusively on borrowing patterns for books authored by the author-members.  
+     - Focuses exclusively on borrowing patterns among author-members for books authored by the author-members.  
      - Provides network metrics specific to this subset.
+   - Additionally, bipartite graphs for both subgroups are created to visualize the borrowing activity among author-members by including borrowed titles.
 
 These analyses collectively aim to illuminate the cultural and social dynamics that characterized the lending practices and interpersonal relationships of early twentieth-century literary communities.
 
@@ -87,7 +88,7 @@ A Python module with helper functions reused across multiple notebooks. This mod
 
 ### Usage and Execution
 
-Each Jupyter notebook in this repository is self-contained and includes explanatory markdown cells detailing the methodology, results, and interpretations. Users are encouraged to review these narrative sections to fully understand the analytical approach and outcomes.
+Each Jupyter notebook in this repository is self-contained and includes explanatory markdown cells detailing the methodology, results, and interpretations. Users are encouraged to review these narrative sections to fully understand the analytical approach and outcomes. It is highly advised to read the notebooks in the order of their numerical prefixes (e.g., `00_introduction.ipynb`, `01_intersection.ipynb`, etc.) to follow the logical progression of the analysis.
 
 ### Acknowledgments
 
